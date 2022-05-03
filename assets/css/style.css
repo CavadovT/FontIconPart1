@@ -1,0 +1,51 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    background-color: white;
+
+}
+
+.container .content {
+    text-align: center;
+    margin: 0 auto;
+    width: 30%;
+    margin-top: 3%;
+    color: gray;
+    border: 1px solid antiquewhite;
+}
+
+.container .content h1 {
+    font-family: 'Water Brush', cursive;
+    width: 25%;
+    margin: 0 auto;
+    transform: rotate(-25deg);
+    font-size: 70px;
+}
+
+.container .content p {
+    font-family: 'Inter', sans-serif;
+    margin: 0 auto;
+  
+    color: black;
+    padding: 5%;
+}
+
+.container .content h3 {
+    padding: 5%;
+    margin: 0 auto;
+    font-style: oblique;
+}
+.container .content h2 {
+    margin: 0 auto;
+    width: 65%;
+}
+.container .content h4{
+    padding: 5%;
+    margin: 0 auto;
+    font-family: 'Inter', sans-serif;
+    font-style: oblique;
+}
